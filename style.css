@@ -1,0 +1,218 @@
+body{
+    margin: 0 auto;
+    width: 1200px;
+    background-color: rgb(0, 19, 63);
+    background-repeat: repeat-y;
+    height: 100%;
+    background-size: 100%;
+}
+.index-home{
+    width: 100%;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+}
+.lang-burger{
+    text-align: center;
+    display: flex;
+    width: 100%;
+    background-color: rgb(135, 133, 133);
+    padding-top: 5px;
+}
+.lang{
+    padding-right:700px;
+    margin-left: 15px;
+    margin-top: 2px;
+}
+.burger,p{
+    padding-right: 25px;
+    margin-left: 23px;
+    display: flex;
+    margin-top: 2px;   
+}
+.about-search{
+    display: flex;
+}
+#logo{
+    width: 75px;
+    height: 75px;
+    padding: 5px;
+}
+.logo{
+    margin-left: 50px;
+}
+.name{
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+form{
+    text-align: center;
+    margin-top: 22px;
+    margin-left: 150px;
+}
+input{
+    border-radius: 15px;
+}
+#lupa{
+    width: 20px;
+    height: 20px;
+    margin-top: 23px;
+    margin-left: 4px;
+}
+button{
+    width: 91px;
+    height: 20px;
+    margin-top: 22px;
+}
+.basket-profil{
+    display: flex;
+}
+#basket{
+    width: 40px;
+    height: 40px;
+    margin-top: 15px;
+    margin-left: 200px;
+    padding-left: 15px;
+}
+#profil{
+    width: 40px;
+    height: 40px;
+    margin-top: 15px;
+    padding-right: 15px;
+}
+.titul{
+    width: 100%;
+    height: 500px;
+    background-color:rgb(135, 133, 133);
+}
+.firstname{
+    font-size: 50px;
+    margin-left: 100px;
+    padding-top: 120px;
+    padding-bottom: 15px;
+}
+.p{
+    margin-left:100px;
+    font-size: 25px;
+    padding-bottom: 55px;
+}
+.buttom{
+    margin-left:100px;
+    background-color: aliceblue;
+    background-repeat: repeat-x;
+    width: 220px;
+    height: 40px;
+    text-align: center;
+    padding: 5px;
+    font-size: 40px;
+}
+.savage{
+    text-align: right;
+    margin-top: -250px;
+    margin-right: 50px;
+    border-radius: 15px;
+}
+#parfume{
+    width: 380px;
+    height: 320px;
+    margin-bottom: 550px;
+    border-radius: 100px;
+}
+.katalog{
+    height: 600px;
+    text-align: center;
+    font-size: 45px;
+    padding-top: 35px;
+}
+.dior{
+    width: 250px;
+    height: 200px;
+    padding-top: 50px;
+}
+.uhoda-bestler{
+    width: 100%;
+    height: 600px;
+}
+.uhoda{
+    float: left;
+    text-align: center;
+    width: 400px;
+    height: 100% ;
+    background-color: rgb(135, 133, 133);
+    margin-left: 55px;
+}
+.text{
+    font-size: 30px;
+}
+.junior{
+    width: 180px;
+    height: 150px;
+    margin-top: 15px;
+    padding-left: 5px;
+}
+.p1{
+    text-align: center;
+    margin-left: -10px;
+    padding-top: 15px;
+    padding: 40px;
+    font-size: 20px;
+}
+.bestler{
+    float: right;
+    text-align: center;
+    width: 650px;
+    height: 100%;
+    background-color: rgb(135, 133, 133);
+    margin-right: 55px;
+}
+.bestler-name{
+    font-size: 30px;
+}
+.img-top{
+    height: 100%;
+}
+.single{
+    width: 250px;
+    height: 180px;
+    padding: 15px;
+}
+.new-colection{
+    width: 100%;
+    height: 450px;
+    background-color: rgb(135, 133, 133);
+}
+.text-name{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.img-colection{
+    width: 100%;
+    height: 400px;
+    text-align: center;
+}
+.colection-img{
+    width: 320px;
+    height: 350px;
+    text-align: center;
+    padding: 15px;
+    border-radius: 0 50px;
+}
+.contact{
+    width: 100%;
+    height: 300px;
+}
+.telefon{
+    margin-top: 15px;
+    padding: 15px;
+    text-align: center;
+}
+#olda{
+    font-size: 45px;
+    margin-left: 15px;
+}
+.div{
+    margin-left: 35px;
+    margin-top: 15px;
+}
